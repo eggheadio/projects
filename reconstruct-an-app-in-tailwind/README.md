@@ -6,7 +6,7 @@ For your project, you are going to do the same with a different website or appli
 
 For instance, take the Reddit home page for example. 
 
-![reddit homepage]()
+![reddit homepage](https://github.com/eggheadio/egghead-projects/blob/main/reconstruct-an-app-in-tailwind/reddit.png?raw=true)
 
 By recreating this home page you'll implement many common UI components and patterns that production apps employ. There's the nav up top as well as expanding list items on the left hand side column with a feed of posts running down the middle. 
 
